@@ -4,6 +4,7 @@ Fortaleza/CE
 #### Desenvolvedor Web
 
 **E-mail:** cicero.roniel@gmail.com <br />
+**Site:** (https://ciceroroniel.github.io/curriculo/)
 **Telefone:** (85) 98725.7413 <br />
 
 ## Formação
