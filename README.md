@@ -38,8 +38,7 @@ Fortaleza/CE
 
 
 ## Projetos de destaque
-* Sheng Chi - Restaurante - ( Site )
-[Front-end/Back-end](http://shengchi.com.br)
+
 
 
 ## Qualificações
